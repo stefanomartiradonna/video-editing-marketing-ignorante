@@ -62,11 +62,6 @@ Serve Python 3.10 o superiore. Il primo avvio della trascrizione scarica il mode
 | Cowork | Da provare: dipende dall'accesso alle cartelle e dalla possibilità di installare ffmpeg |
 | claude.ai | Solo pianificazione: analisi del copione, verifica dei numeri, piano di montaggio. I file video 4K sono troppo pesanti da caricare |
 
-## Ispirazioni
-
-- [Aakash Gupta](https://www.aibyaakash.com/p/edit-videos-with-claude-code): montare video con Claude Code e comandi dedicati.
-- [Matteo Arnaboldi](https://matteoarnaboldi.com/): i principi del montaggio con AI, la guida di stile scritta e i feedback che diventano regole.
-
 ## Licenza
 
 Codice e documenti: MIT (vedi `LICENSE`). Font Poppins: SIL Open Font License (vedi `video-editing/assets/font/OFL.txt`).
