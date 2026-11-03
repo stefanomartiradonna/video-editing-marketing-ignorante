@@ -1,0 +1,5 @@
+imageio-ffmpeg
+faster-whisper
+pillow
+numpy
+msvc-runtime; sys_platform == "win32"
